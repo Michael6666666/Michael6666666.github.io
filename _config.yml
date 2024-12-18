@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zijian Zhang / Personal website"
 title_separator          : "-"
 name                     : &name "Zijian Zhang"
-description              : &description "个人介绍"
+description              : &description "First year Master student study Applied Mathematics at the Univeristy of Michigan"
 url                      : https://michael6666666.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Michael6666666/Michael6666666.github.io"
@@ -28,7 +28,7 @@ author:
   location         : "Ann Arbor"
   employer         : "University of Michigan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zzijian@umich.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
